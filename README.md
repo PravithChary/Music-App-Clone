@@ -1,4 +1,4 @@
-# Music-App-Clone
+# Music Player (Spotify Clone)
 
 ## About the Project
 A user friendly Music Player web application consisting of 10 songs wherein the user can play anysong at any moment and interchange them.
