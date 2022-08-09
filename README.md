@@ -23,7 +23,7 @@ After a song is finished, automatically, the next song will be played.
 * [JavaScript](https://www.w3schools.com/js/)
 * [BootStrap](https://www.w3schools.com/bootstrap/)
 
-## Demo
+## Demo Video
 
 [Click here](https://youtu.be/_uy9Gj8AUvQ)
 
