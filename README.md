@@ -29,8 +29,9 @@ After a song is finished, automatically, the next song will be played.
 
 ## Features included
 
-- Screensize adjustable
-- Playing Mode
+- User friendly environment.
+- Screensize adjustable.
+- Playing Mode.
 
 https://user-images.githubusercontent.com/84093681/183652267-a56c891c-3c6a-42ae-9336-7d68e75fc8a8.mov
 
